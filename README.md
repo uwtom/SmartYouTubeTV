@@ -1,11 +1,3 @@
-"[SmartYouTubeTV] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial"
-<a href="https://tracking.gitads.io/?repo=SmartYouTubeTV"> <img src="https://images.gitads.io/SmartYouTubeTV" alt="GitAds"/> </a>
-
-![Logo of SmartYouTubeTV](screenshots/smartyoutubetv-logo_small.png "Logo of SmartYouTubeTV") SmartYouTubeTV
-=========
-
-[![MPLv2 License](http://img.shields.io/badge/license-MPLv2-blue.svg?style=flat-square)](https://www.mozilla.org/MPL/2.0/)
-
 ## Deprecation Notice
 
 **This app is no longer updated.**
@@ -13,6 +5,14 @@
 For a better YouTube experience on Android TV check out **[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)**
 
 ---
+
+"[SmartYouTubeTV] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial"
+<a href="https://tracking.gitads.io/?repo=SmartYouTubeTV"> <img src="https://images.gitads.io/SmartYouTubeTV" alt="GitAds"/> </a>
+
+![Logo of SmartYouTubeTV](screenshots/smartyoutubetv-logo_small.png "Logo of SmartYouTubeTV") SmartYouTubeTV
+=========
+
+[![MPLv2 License](http://img.shields.io/badge/license-MPLv2-blue.svg?style=flat-square)](https://www.mozilla.org/MPL/2.0/)
 
 __SmartYouTubeTV: A YouTube client for set-top boxes and Android-based TVs:__
 
