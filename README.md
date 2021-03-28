@@ -1,3 +1,11 @@
+## Deprecation Notice
+
+**This app is no longer updated.**
+
+For a better YouTube experience on Android TV check out **[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)**
+
+---
+
 "[SmartYouTubeTV] is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial"
 <a href="https://tracking.gitads.io/?repo=SmartYouTubeTV"> <img src="https://images.gitads.io/SmartYouTubeTV" alt="GitAds"/> </a>
 
